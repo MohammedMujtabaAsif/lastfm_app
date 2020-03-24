@@ -1,0 +1,4 @@
+Application name 	Last.FM Stats
+API key 	3bf64a1c33bd2ae277221e01cfb33d00
+Shared secret 	6adab50a38c3f4e8f963652915b8d804
+Registered to 	AssassinOnAcid
